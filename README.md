@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethi19
-- 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Tech & Engineering
+- 🌱 I’m currently lot of stuffs (jack of all trades)
 - 💞️ I’m looking to collaborate on Projects related to my interests
 - 📫 How to reach me www.linkedin.com/in/sanjaykumar-rajasekaran-093147147
 
